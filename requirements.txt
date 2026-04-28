@@ -1,0 +1,4 @@
+google-adk
+pymongo
+litellm>=1.75.5
+pillow
